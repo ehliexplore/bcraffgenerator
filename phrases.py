@@ -642,7 +642,9 @@ def lyrics_raffa():
     "Rockstar Mixtape, mano",
     "Dia primeiro de dezembro",
     "Bem-vindo Natal mixtape",
-    "Yeah, yeah, gang"
+    "Yeah, yeah, gang",
+    "Eu recusei o convite",
+    "O Raffa é o mais criativo"
 
 ]
     return phrases
