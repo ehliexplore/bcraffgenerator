@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>BC Raff Generator</title>
     <link rel="shortcut icon" href="{{ url_for('static', filename='raffaicon.ico') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
 
         <style>
 	body {
@@ -31,6 +32,12 @@
       button {
         margin-top: 20px;
       }
+      a {
+        display: block;
+        color: grey;
+        margin-top: 150px;
+        font-size: 10px
+      }
 
     </style>
 </head>
@@ -40,6 +47,7 @@
     <img src="{{ url_for('static', filename='raffa200.jpg') }}" alt="Raffa Moreira AKA BC Raff">
 
     <button onclick="reloadPage()">Recarregar</button>
+    <a href="https://www.instagram.com/ehliexplore/">@ehliexplore</a>
 
 	<script>
 		function reloadPage() {
