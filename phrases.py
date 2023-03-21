@@ -644,6 +644,8 @@ def lyrics_raffa():
     "Bem-vindo Natal mixtape",
     "Yeah, yeah, gang",
     "Eu recusei o convite",
+
+    "Bro, faz sol",
     "O Raffa é o mais criativo"
 
 ]
