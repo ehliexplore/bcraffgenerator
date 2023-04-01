@@ -1,3 +1,3 @@
 # BCRaff Generator
-Página que gera frases aleatórias das letras do rapper Raffa Moreira toda vez que é recarregada.
+Site que gera frases aleatórias das letras do rapper Raffa Moreira toda vez que é recarregada.
 Feito com Python, HTML e CSS. Com o intuito de iniciar meus treinos em HTML e CSS.
